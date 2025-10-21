@@ -1,0 +1,1412 @@
+[
+  {
+    "type": "group",
+    "subDivision": "Aberdeen",
+    "milepost": "S",
+    "displayName": "Aberdeen - S"
+  },
+  {
+    "type": "data",
+    "milepost": "S",
+    "subDivision": "Aberdeen",
+    "mileageRange": {
+      "from": 154.83,
+      "to": 240.5
+    },
+    "id": 1,
+    "trackCode": "1",
+    "structures": 12,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "S",
+    "subDivision": "Aberdeen",
+    "mileageRange": {
+      "from": 154.83,
+      "to": 240.5
+    },
+    "id": 2,
+    "trackCode": "2",
+    "structures": 11,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "S",
+    "subDivision": "Aberdeen",
+    "mileageRange": {
+      "from": 154.83,
+      "to": 240.5
+    },
+    "id": 3,
+    "trackCode": "SD",
+    "structures": 7,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "data",
+    "milepost": "S",
+    "subDivision": "Aberdeen",
+    "mileageRange": {
+      "from": 154.83,
+      "to": 240.5
+    },
+    "id": 4,
+    "trackCode": "SG",
+    "structures": 35,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "group",
+    "subDivision": "Aberdeen",
+    "milepost": "SB",
+    "displayName": "Aberdeen - SB"
+  },
+  {
+    "type": "data",
+    "milepost": "SB",
+    "subDivision": "Aberdeen",
+    "mileageRange": {
+      "from": 152.92,
+      "to": 153.82
+    },
+    "id": 5,
+    "trackCode": "SG",
+    "structures": 4,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Aberdeen",
+    "milepost": "SDS",
+    "displayName": "Aberdeen - SDS"
+  },
+  {
+    "type": "data",
+    "milepost": "SDS",
+    "subDivision": "Aberdeen",
+    "mileageRange": {
+      "from": 2.68,
+      "to": 19.66
+    },
+    "id": 6,
+    "trackCode": "SG",
+    "structures": 16,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Altenheim",
+    "milepost": "DC",
+    "displayName": "Altenheim - DC"
+  },
+  {
+    "type": "data",
+    "milepost": "DC",
+    "subDivision": "Altenheim",
+    "mileageRange": {
+      "from": 32.76,
+      "to": 36.72
+    },
+    "id": 7,
+    "trackCode": "1",
+    "structures": 18,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 4
+  },
+  {
+    "type": "data",
+    "milepost": "DC",
+    "subDivision": "Altenheim",
+    "mileageRange": {
+      "from": 32.76,
+      "to": 36.72
+    },
+    "id": 8,
+    "trackCode": "2",
+    "structures": 16,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 6
+  },
+  {
+    "type": "group",
+    "subDivision": "Andrews",
+    "milepost": "SH",
+    "displayName": "Andrews - SH"
+  },
+  {
+    "type": "data",
+    "milepost": "SH",
+    "subDivision": "Andrews",
+    "mileageRange": {
+      "from": 293,
+      "to": 416.02
+    },
+    "id": 9,
+    "trackCode": "CONN",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "SH",
+    "subDivision": "Andrews",
+    "mileageRange": {
+      "from": 293,
+      "to": 416.02
+    },
+    "id": 10,
+    "trackCode": "SG",
+    "structures": 111,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 3
+  },
+  {
+    "type": "group",
+    "subDivision": "Andrews",
+    "milepost": "SHM",
+    "displayName": "Andrews - SHM"
+  },
+  {
+    "type": "data",
+    "milepost": "SHM",
+    "subDivision": "Andrews",
+    "mileageRange": {
+      "from": 401.19,
+      "to": 403.62
+    },
+    "id": 11,
+    "trackCode": "SG",
+    "structures": 3,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Auburndale",
+    "milepost": "AVC",
+    "displayName": "Auburndale - AVC"
+  },
+  {
+    "type": "data",
+    "milepost": "AVC",
+    "subDivision": "Auburndale",
+    "mileageRange": {
+      "from": 866.43,
+      "to": 867.35
+    },
+    "id": 12,
+    "trackCode": "SG",
+    "structures": 4,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Auburndale",
+    "milepost": "SX",
+    "displayName": "Auburndale - SX"
+  },
+  {
+    "type": "data",
+    "milepost": "SX",
+    "subDivision": "Auburndale",
+    "mileageRange": {
+      "from": 820.4,
+      "to": 963.28
+    },
+    "id": 13,
+    "trackCode": "SD",
+    "structures": 25,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "SX",
+    "subDivision": "Auburndale",
+    "mileageRange": {
+      "from": 820.4,
+      "to": 963.28
+    },
+    "id": 14,
+    "trackCode": "SG",
+    "structures": 63,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "00L",
+    "displayName": "Birmingham Mineral - 00L"
+  },
+  {
+    "type": "data",
+    "milepost": "00L",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 403.48,
+      "to": 403.49
+    },
+    "id": 15,
+    "trackCode": "1",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "0LB",
+    "displayName": "Birmingham Mineral - 0LB"
+  },
+  {
+    "type": "data",
+    "milepost": "0LB",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 388.46,
+      "to": 403.92
+    },
+    "id": 16,
+    "trackCode": "SG",
+    "structures": 58,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "0LC",
+    "displayName": "Birmingham Mineral - 0LC"
+  },
+  {
+    "type": "data",
+    "milepost": "0LC",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 404.21,
+      "to": 421.09
+    },
+    "id": 17,
+    "trackCode": "SD",
+    "structures": 4,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "0LC",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 404.21,
+      "to": 421.09
+    },
+    "id": 18,
+    "trackCode": "SG",
+    "structures": 43,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "0LK",
+    "displayName": "Birmingham Mineral - 0LK"
+  },
+  {
+    "type": "data",
+    "milepost": "0LK",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 422.69,
+      "to": 429.04
+    },
+    "id": 19,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "ANJ",
+    "displayName": "Birmingham Mineral - ANJ"
+  },
+  {
+    "type": "data",
+    "milepost": "ANJ",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 974.32,
+      "to": 977.73
+    },
+    "id": 20,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Bone Valley",
+    "milepost": "AY",
+    "displayName": "Bone Valley - AY"
+  },
+  {
+    "type": "data",
+    "milepost": "AY",
+    "subDivision": "Bone Valley",
+    "mileageRange": {
+      "from": 863.98,
+      "to": 877.61
+    },
+    "id": 21,
+    "trackCode": "SD",
+    "structures": 2,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "AY",
+    "subDivision": "Bone Valley",
+    "mileageRange": {
+      "from": 863.98,
+      "to": 877.61
+    },
+    "id": 22,
+    "trackCode": "SG",
+    "structures": 13,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Callahan",
+    "milepost": "SM",
+    "displayName": "Callahan - SM"
+  },
+  {
+    "type": "data",
+    "milepost": "SM",
+    "subDivision": "Callahan",
+    "mileageRange": {
+      "from": 3.52,
+      "to": 19.42
+    },
+    "id": 23,
+    "trackCode": "SD",
+    "structures": 3,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "SM",
+    "subDivision": "Callahan",
+    "mileageRange": {
+      "from": 3.52,
+      "to": 19.42
+    },
+    "id": 24,
+    "trackCode": "SG",
+    "structures": 14,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Carman",
+    "milepost": "QCC",
+    "displayName": "Carman - QCC"
+  },
+  {
+    "type": "data",
+    "milepost": "QCC",
+    "subDivision": "Carman",
+    "mileageRange": {
+      "from": 0.16,
+      "to": 3.69
+    },
+    "id": 25,
+    "trackCode": "SG",
+    "structures": 15,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Boston",
+    "milepost": "QB",
+    "displayName": "Boston - QB"
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 26,
+    "trackCode": "1",
+    "structures": 20,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 27,
+    "trackCode": "2",
+    "structures": 22,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 2
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 28,
+    "trackCode": "SD",
+    "structures": 12,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 29,
+    "trackCode": "SG",
+    "structures": 2,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 2
+  },
+  {
+    "type": "group",
+    "subDivision": "Brooker",
+    "milepost": "SN",
+    "displayName": "Brooker - SN"
+  },
+  {
+    "type": "data",
+    "milepost": "SN",
+    "subDivision": "Brooker",
+    "mileageRange": {
+      "from": 679.1,
+      "to": 716.3
+    },
+    "id": 30,
+    "trackCode": "SG",
+    "structures": 31,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Cleveland Terminal",
+    "milepost": "QD",
+    "displayName": "Cleveland Terminal - QD"
+  },
+  {
+    "type": "data",
+    "milepost": "QD",
+    "subDivision": "Cleveland Terminal",
+    "mileageRange": {
+      "from": 171.23,
+      "to": 180.08
+    },
+    "id": 31,
+    "trackCode": "1",
+    "structures": 14,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "QD",
+    "subDivision": "Cleveland Terminal",
+    "mileageRange": {
+      "from": 171.23,
+      "to": 180.08
+    },
+    "id": 32,
+    "trackCode": "2",
+    "structures": 12,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "QD",
+    "subDivision": "Cleveland Terminal",
+    "mileageRange": {
+      "from": 171.23,
+      "to": 180.08
+    },
+    "id": 33,
+    "trackCode": "NCS",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Hopewell",
+    "milepost": "SAC",
+    "displayName": "Hopewell - SAC"
+  },
+  {
+    "type": "data",
+    "milepost": "SAC",
+    "subDivision": "Hopewell",
+    "mileageRange": {
+      "from": 7.82,
+      "to": 21.14
+    },
+    "id": 34,
+    "trackCode": "SG",
+    "structures": 42,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 2
+  },
+  {
+    "type": "group",
+    "subDivision": "Chattanooga",
+    "milepost": "00J",
+    "displayName": "Chattanooga - 00J"
+  },
+  {
+    "type": "data",
+    "milepost": "00J",
+    "subDivision": "Chattanooga",
+    "mileageRange": {
+      "from": 31.6,
+      "to": 37.18
+    },
+    "id": 35,
+    "trackCode": "2",
+    "structures": 10,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Chattanooga",
+    "milepost": "0J2",
+    "displayName": "Chattanooga - 0J2"
+  },
+  {
+    "type": "data",
+    "milepost": "0J2",
+    "subDivision": "Chattanooga",
+    "mileageRange": {
+      "from": 144.02,
+      "to": 147.9
+    },
+    "id": 36,
+    "trackCode": "SG",
+    "structures": 3,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Chattanooga",
+    "milepost": "0JT",
+    "displayName": "Chattanooga - 0JT"
+  },
+  {
+    "type": "data",
+    "milepost": "0JT",
+    "subDivision": "Chattanooga",
+    "mileageRange": {
+      "from": 118.36,
+      "to": 119.55
+    },
+    "id": 37,
+    "trackCode": "NLWYE",
+    "structures": 1,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "data",
+    "milepost": "0JT",
+    "subDivision": "Chattanooga",
+    "mileageRange": {
+      "from": 118.36,
+      "to": 119.55
+    },
+    "id": 38,
+    "trackCode": "SG",
+    "structures": 3,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "0JT",
+    "subDivision": "Chattanooga",
+    "mileageRange": {
+      "from": 118.36,
+      "to": 119.55
+    },
+    "id": 39,
+    "trackCode": "SLWYE",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Etowah",
+    "milepost": "00C",
+    "displayName": "Etowah - 00C"
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "Etowah",
+    "mileageRange": {
+      "from": 333.92,
+      "to": 422.34
+    },
+    "id": 40,
+    "trackCode": "EYDLD",
+    "structures": 2,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "Etowah",
+    "mileageRange": {
+      "from": 333.92,
+      "to": 422.34
+    },
+    "id": 41,
+    "trackCode": "LGJOHN",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "Etowah",
+    "mileageRange": {
+      "from": 333.92,
+      "to": 422.34
+    },
+    "id": 42,
+    "trackCode": "OT",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "Etowah",
+    "mileageRange": {
+      "from": 333.92,
+      "to": 422.34
+    },
+    "id": 43,
+    "trackCode": "SD",
+    "structures": 12,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "Etowah",
+    "mileageRange": {
+      "from": 333.92,
+      "to": 422.34
+    },
+    "id": 44,
+    "trackCode": "SG",
+    "structures": 89,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 3
+  },
+  {
+    "type": "group",
+    "subDivision": "Etowah",
+    "milepost": "0KA",
+    "displayName": "Etowah - 0KA"
+  },
+  {
+    "type": "data",
+    "milepost": "0KA",
+    "subDivision": "Etowah",
+    "mileageRange": {
+      "from": 345.01,
+      "to": 353.73
+    },
+    "id": 45,
+    "trackCode": "SG",
+    "structures": 8,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Etowah",
+    "milepost": "0KX",
+    "displayName": "Etowah - 0KX"
+  },
+  {
+    "type": "data",
+    "milepost": "0KX",
+    "subDivision": "Etowah",
+    "mileageRange": {
+      "from": 338.51,
+      "to": 338.52
+    },
+    "id": 46,
+    "trackCode": "SG",
+    "structures": 2,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Kanawha",
+    "milepost": "CA",
+    "displayName": "Kanawha - CA"
+  },
+  {
+    "type": "data",
+    "milepost": "CA",
+    "subDivision": "Kanawha",
+    "mileageRange": {
+      "from": 428.29,
+      "to": 523.93
+    },
+    "id": 47,
+    "trackCode": "1",
+    "structures": 113,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 3
+  },
+  {
+    "type": "data",
+    "milepost": "CA",
+    "subDivision": "Kanawha",
+    "mileageRange": {
+      "from": 428.29,
+      "to": 523.93
+    },
+    "id": 48,
+    "trackCode": "2",
+    "structures": 216,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 7
+  },
+  {
+    "type": "data",
+    "milepost": "CA",
+    "subDivision": "Kanawha",
+    "mileageRange": {
+      "from": 428.29,
+      "to": 523.93
+    },
+    "id": 49,
+    "trackCode": "3",
+    "structures": 61,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 3
+  },
+  {
+    "type": "group",
+    "subDivision": "Kanawha",
+    "milepost": "COS",
+    "displayName": "Kanawha - COS"
+  },
+  {
+    "type": "data",
+    "milepost": "COS",
+    "subDivision": "Kanawha",
+    "mileageRange": {
+      "from": 0.24,
+      "to": 10.98
+    },
+    "id": 50,
+    "trackCode": "SG",
+    "structures": 60,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 30
+  },
+  {
+    "type": "group",
+    "subDivision": "KD",
+    "milepost": "00C",
+    "displayName": "KD - 00C"
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "KD",
+    "mileageRange": {
+      "from": 171.71,
+      "to": 331.8
+    },
+    "id": 51,
+    "trackCode": "1",
+    "structures": 79,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 37
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "KD",
+    "mileageRange": {
+      "from": 171.71,
+      "to": 331.8
+    },
+    "id": 52,
+    "trackCode": "2",
+    "structures": 128,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 18
+  },
+  {
+    "type": "data",
+    "milepost": "00C",
+    "subDivision": "KD",
+    "mileageRange": {
+      "from": 171.71,
+      "to": 331.8
+    },
+    "id": 53,
+    "trackCode": "SG",
+    "structures": 205,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 49
+  },
+  {
+    "type": "group",
+    "subDivision": "Kingsport",
+    "milepost": "CMG",
+    "displayName": "Kingsport - CMG"
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Kingsport",
+    "mileageRange": {
+      "from": 115.05,
+      "to": 127.9
+    },
+    "id": 54,
+    "trackCode": "SD",
+    "structures": 2,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Kingsport",
+    "mileageRange": {
+      "from": 115.05,
+      "to": 127.9
+    },
+    "id": 55,
+    "trackCode": "SG",
+    "structures": 34,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "group",
+    "subDivision": "Kingsport",
+    "milepost": "Z",
+    "displayName": "Kingsport - Z"
+  },
+  {
+    "type": "data",
+    "milepost": "Z",
+    "subDivision": "Kingsport",
+    "mileageRange": {
+      "from": 0.5,
+      "to": 133.71
+    },
+    "id": 56,
+    "trackCode": "SD",
+    "structures": 2,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "Z",
+    "subDivision": "Kingsport",
+    "mileageRange": {
+      "from": 0.5,
+      "to": 133.71
+    },
+    "id": 57,
+    "trackCode": "SG",
+    "structures": 638,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 106
+  },
+  {
+    "type": "group",
+    "subDivision": "LAKE",
+    "milepost": "BIA",
+    "displayName": "LAKE - BIA"
+  },
+  {
+    "type": "data",
+    "milepost": "BIA",
+    "subDivision": "LAKE",
+    "mileageRange": {
+      "from": 252.19,
+      "to": 256.01
+    },
+    "id": 58,
+    "trackCode": "1",
+    "structures": 9,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "BIA",
+    "subDivision": "LAKE",
+    "mileageRange": {
+      "from": 252.19,
+      "to": 256.01
+    },
+    "id": 59,
+    "trackCode": "2",
+    "structures": 5,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Mccormick",
+    "milepost": "AK",
+    "displayName": "Mccormick - AK"
+  },
+  {
+    "type": "data",
+    "milepost": "AK",
+    "subDivision": "Mccormick",
+    "mileageRange": {
+      "from": 460.5,
+      "to": 521.67
+    },
+    "id": 60,
+    "trackCode": "SG",
+    "structures": 91,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 6
+  },
+  {
+    "type": "group",
+    "subDivision": "Big Sandy",
+    "milepost": "CMG",
+    "displayName": "Big Sandy - CMG"
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.16,
+      "to": 114.01
+    },
+    "id": 61,
+    "trackCode": "1",
+    "structures": 66,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 3
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.16,
+      "to": 114.01
+    },
+    "id": 62,
+    "trackCode": "2",
+    "structures": 67,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.16,
+      "to": 114.01
+    },
+    "id": 63,
+    "trackCode": "SG",
+    "structures": 135,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 7
+  },
+  {
+    "type": "group",
+    "subDivision": "Big Sandy",
+    "milepost": "CMO",
+    "displayName": "Big Sandy - CMO"
+  },
+  {
+    "type": "data",
+    "milepost": "CMO",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.52,
+      "to": 3.18
+    },
+    "id": 64,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 4
+  },
+  {
+    "type": "group",
+    "subDivision": "Herbert",
+    "milepost": "QJ",
+    "displayName": "Herbert - QJ"
+  },
+  {
+    "type": "data",
+    "milepost": "QJ",
+    "subDivision": "Herbert",
+    "mileageRange": {
+      "from": 5.32,
+      "to": 17.33
+    },
+    "id": 65,
+    "trackCode": "SG",
+    "structures": 4,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Chicago Heights",
+    "milepost": "DB",
+    "displayName": "Chicago Heights - DB"
+  },
+  {
+    "type": "data",
+    "milepost": "DB",
+    "subDivision": "Chicago Heights",
+    "mileageRange": {
+      "from": 0,
+      "to": 7.93
+    },
+    "id": 66,
+    "trackCode": "ELWYE",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "DB",
+    "subDivision": "Chicago Heights",
+    "mileageRange": {
+      "from": 0,
+      "to": 7.93
+    },
+    "id": 67,
+    "trackCode": "SG",
+    "structures": 12,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Henderson",
+    "milepost": "00D",
+    "displayName": "Henderson - 00D"
+  },
+  {
+    "type": "data",
+    "milepost": "00D",
+    "subDivision": "Henderson",
+    "mileageRange": {
+      "from": 173.43,
+      "to": 186.36
+    },
+    "id": 68,
+    "trackCode": "SG",
+    "structures": 25,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "group",
+    "subDivision": "Henderson",
+    "milepost": "00H",
+    "displayName": "Henderson - 00H"
+  },
+  {
+    "type": "data",
+    "milepost": "00H",
+    "subDivision": "Henderson",
+    "mileageRange": {
+      "from": 186.38,
+      "to": 187.21
+    },
+    "id": 69,
+    "trackCode": "SG",
+    "structures": 34,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 6
+  },
+  {
+    "type": "group",
+    "subDivision": "Henderson",
+    "milepost": "0HC",
+    "displayName": "Henderson - 0HC"
+  },
+  {
+    "type": "data",
+    "milepost": "0HC",
+    "subDivision": "Henderson",
+    "mileageRange": {
+      "from": 271.2,
+      "to": 276.66
+    },
+    "id": 70,
+    "trackCode": "SG",
+    "structures": 15,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Henderson",
+    "milepost": "0HE",
+    "displayName": "Henderson - 0HE"
+  },
+  {
+    "type": "data",
+    "milepost": "0HE",
+    "subDivision": "Henderson",
+    "mileageRange": {
+      "from": 120.6,
+      "to": 138.01
+    },
+    "id": 71,
+    "trackCode": "SG",
+    "structures": 10,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "group",
+    "subDivision": "Henderson",
+    "milepost": "0MB",
+    "displayName": "Henderson - 0MB"
+  },
+  {
+    "type": "data",
+    "milepost": "0MB",
+    "subDivision": "Henderson",
+    "mileageRange": {
+      "from": 276.52,
+      "to": 290.77
+    },
+    "id": 72,
+    "trackCode": "OT",
+    "structures": 5,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "0MB",
+    "subDivision": "Henderson",
+    "mileageRange": {
+      "from": 276.52,
+      "to": 290.77
+    },
+    "id": 73,
+    "trackCode": "SG",
+    "structures": 9,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "River South",
+    "milepost": "QR",
+    "displayName": "River South - QR"
+  },
+  {
+    "type": "data",
+    "milepost": "QR",
+    "subDivision": "River South",
+    "mileageRange": {
+      "from": 1.52,
+      "to": 1.54
+    },
+    "id": 74,
+    "trackCode": "1",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "QR",
+    "subDivision": "River South",
+    "mileageRange": {
+      "from": 1.52,
+      "to": 1.54
+    },
+    "id": 75,
+    "trackCode": "2",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "River South",
+    "milepost": "QRV",
+    "displayName": "River South - QRV"
+  },
+  {
+    "type": "data",
+    "milepost": "QRV",
+    "subDivision": "River South",
+    "mileageRange": {
+      "from": 0.19,
+      "to": 4.24
+    },
+    "id": 76,
+    "trackCode": "SG",
+    "structures": 9,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 3
+  },
+  {
+    "type": "group",
+    "subDivision": "Woodland",
+    "milepost": "0ZA",
+    "displayName": "Woodland - 0ZA"
+  },
+  {
+    "type": "data",
+    "milepost": "0ZA",
+    "subDivision": "Woodland",
+    "mileageRange": {
+      "from": 87.33,
+      "to": 128.9
+    },
+    "id": 77,
+    "trackCode": "1",
+    "structures": 5,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "0ZA",
+    "subDivision": "Woodland",
+    "mileageRange": {
+      "from": 87.33,
+      "to": 128.9
+    },
+    "id": 78,
+    "trackCode": "2",
+    "structures": 4,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "0ZA",
+    "subDivision": "Woodland",
+    "mileageRange": {
+      "from": 87.33,
+      "to": 128.9
+    },
+    "id": 79,
+    "trackCode": "SD",
+    "structures": 9,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "0ZA",
+    "subDivision": "Woodland",
+    "mileageRange": {
+      "from": 87.33,
+      "to": 128.9
+    },
+    "id": 80,
+    "trackCode": "SG",
+    "structures": 54,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Woodland",
+    "milepost": "QSO",
+    "displayName": "Woodland - QSO"
+  },
+  {
+    "type": "data",
+    "milepost": "QSO",
+    "subDivision": "Woodland",
+    "mileageRange": {
+      "from": 1.69,
+      "to": 2.59
+    },
+    "id": 81,
+    "trackCode": "SG",
+    "structures": 2,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  }
+]
