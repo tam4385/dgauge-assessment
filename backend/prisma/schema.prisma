@@ -1,0 +1,78 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Assessment {
+  id                    Int       @id @default(autoincrement())
+  assessmentId          Int       @unique
+  projectId             Int
+  createdDate           DateTime
+  createdUserId         Int
+  assessmentStatusId    Int
+  inputs                Json      // JSON field to store the inputs object
+  assessmentTypeId      Int
+  calcStartTime         DateTime?
+  cancelledDate         DateTime?
+  cancelledUserId       Int?
+  jobId                 Int?
+  startTime             DateTime
+  endTime               DateTime
+  custom                String?
+  numberOfCalculations  Int
+  reference             String
+  vehicleLoadTime       DateTime?
+  firstBatchSlicesLoadTime DateTime?
+  startedUserId         Int
+  surveyId              Int?
+  surveySource          String
+  numberOfSlices        Int
+  numberOfVehicles      Int
+  modifiedDate          DateTime
+  modifiedUserId        Int
+  surveyTypeId          Int
+  OutputVersion         Int
+  siteId                Int?
+  excludeStructureTypeId Int?
+  companyId             Int
+  projectReference      Int
+  assessmentReference   Int
+}
+
+model AssessmentElr {
+  id                Int     @id @default(autoincrement())
+  assessmentElrId   Int     @unique
+  ngdVersion        Int
+  elr               String
+  trackCode         String?
+  startMetres       Float
+  endMetres         Float
+  jobId             Int
+  structureCount    Int
+  calculationCount  Int
+  sortOrder         Int
+  assessmentId      Int
+  projectId         Int
+  companyId         Int
+}
+
+model JobResult {
+  id                Int       @id @default(autoincrement())
+  jobId             Int   
+  trackCode         String?
+  count             Int?
+  category          String?
+}
+
+model SubDivision {
+  id            Int @id @default(autoincrement())
+  regionRouteId Int
+  regionId      Int
+  name          String
+  code          String
+  elrs          Json  
+}

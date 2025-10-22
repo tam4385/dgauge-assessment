@@ -1,0 +1,56 @@
+[
+  {
+    "type": "group",
+    "subDivision": "A&WP",
+    "milepost": "XXB",
+    "displayName": "A&WP - XXB"
+  },
+  {
+    "type": "data",
+    "milepost": "XXB",
+    "subDivision": "A&WP",
+    "mileageRange": {
+      "from": 17.9,
+      "to": 171.84
+    },
+    "id": 1,
+    "trackCode": "SD",
+    "structures": 6,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "XXB",
+    "subDivision": "A&WP",
+    "mileageRange": {
+      "from": 17.9,
+      "to": 171.84
+    },
+    "id": 2,
+    "trackCode": "SG",
+    "structures": 165,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 26
+  },
+  {
+    "type": "group",
+    "subDivision": "Abbeville",
+    "milepost": "SG",
+    "displayName": "Abbeville - SG"
+  },
+  {
+    "type": "data",
+    "milepost": "SG",
+    "subDivision": "Abbeville",
+    "mileageRange": {
+      "from": 443.04,
+      "to": 300
+    },
+    "id": 3,
+    "trackCode": "ALL",
+    "structures": 0,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  }
+]

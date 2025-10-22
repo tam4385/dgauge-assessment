@@ -1,0 +1,402 @@
+[
+  {
+    "type": "group",
+    "subDivision": "New Castle",
+    "milepost": "BG",
+    "displayName": "New Castle - BG"
+  },
+  {
+    "type": "data",
+    "milepost": "BG",
+    "subDivision": "New Castle",
+    "mileageRange": {
+      "from": 54.86,
+      "to": 192.38
+    },
+    "id": 1,
+    "trackCode": "1",
+    "structures": 169,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "BG",
+    "subDivision": "New Castle",
+    "mileageRange": {
+      "from": 54.86,
+      "to": 192.38
+    },
+    "id": 2,
+    "trackCode": "2",
+    "structures": 174,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "data",
+    "milepost": "BG",
+    "subDivision": "New Castle",
+    "mileageRange": {
+      "from": 54.86,
+      "to": 192.38
+    },
+    "id": 3,
+    "trackCode": "SG",
+    "structures": 8,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Boston",
+    "milepost": "QB",
+    "displayName": "Boston - QB"
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 4,
+    "trackCode": "1",
+    "structures": 20,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 5,
+    "trackCode": "2",
+    "structures": 22,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 2
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 6,
+    "trackCode": "SD",
+    "structures": 12,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "QB",
+    "subDivision": "Boston",
+    "mileageRange": {
+      "from": 4.24,
+      "to": 83.58
+    },
+    "id": 7,
+    "trackCode": "SG",
+    "structures": 2,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 2
+  },
+  {
+    "type": "group",
+    "subDivision": "Big Sandy",
+    "milepost": "CMG",
+    "displayName": "Big Sandy - CMG"
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.16,
+      "to": 114.01
+    },
+    "id": 8,
+    "trackCode": "1",
+    "structures": 66,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 3
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.16,
+      "to": 114.01
+    },
+    "id": 9,
+    "trackCode": "2",
+    "structures": 67,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "data",
+    "milepost": "CMG",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.16,
+      "to": 114.01
+    },
+    "id": 10,
+    "trackCode": "SG",
+    "structures": 135,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 7
+  },
+  {
+    "type": "group",
+    "subDivision": "Big Sandy",
+    "milepost": "CMO",
+    "displayName": "Big Sandy - CMO"
+  },
+  {
+    "type": "data",
+    "milepost": "CMO",
+    "subDivision": "Big Sandy",
+    "mileageRange": {
+      "from": 0.52,
+      "to": 3.18
+    },
+    "id": 11,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 4
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "00L",
+    "displayName": "Birmingham Mineral - 00L"
+  },
+  {
+    "type": "data",
+    "milepost": "00L",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 403.48,
+      "to": 403.49
+    },
+    "id": 12,
+    "trackCode": "1",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "0LB",
+    "displayName": "Birmingham Mineral - 0LB"
+  },
+  {
+    "type": "data",
+    "milepost": "0LB",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 388.46,
+      "to": 403.92
+    },
+    "id": 13,
+    "trackCode": "SG",
+    "structures": 58,
+    "clearanceCategory": "Prohibit",
+    "prohibited": 1
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "0LC",
+    "displayName": "Birmingham Mineral - 0LC"
+  },
+  {
+    "type": "data",
+    "milepost": "0LC",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 404.21,
+      "to": 421.09
+    },
+    "id": 14,
+    "trackCode": "SD",
+    "structures": 4,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "0LC",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 404.21,
+      "to": 421.09
+    },
+    "id": 15,
+    "trackCode": "SG",
+    "structures": 43,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "0LK",
+    "displayName": "Birmingham Mineral - 0LK"
+  },
+  {
+    "type": "data",
+    "milepost": "0LK",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 422.69,
+      "to": 429.04
+    },
+    "id": 16,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Birmingham Mineral",
+    "milepost": "ANJ",
+    "displayName": "Birmingham Mineral - ANJ"
+  },
+  {
+    "type": "data",
+    "milepost": "ANJ",
+    "subDivision": "Birmingham Mineral",
+    "mileageRange": {
+      "from": 974.32,
+      "to": 977.73
+    },
+    "id": 17,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Brewster",
+    "milepost": "SVC",
+    "displayName": "Brewster - SVC"
+  },
+  {
+    "type": "data",
+    "milepost": "SVC",
+    "subDivision": "Brewster",
+    "mileageRange": {
+      "from": 839.71,
+      "to": 852.26
+    },
+    "id": 18,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Fremont",
+    "milepost": "CGC",
+    "displayName": "Fremont - CGC"
+  },
+  {
+    "type": "data",
+    "milepost": "CGC",
+    "subDivision": "Fremont",
+    "mileageRange": {
+      "from": 23.84,
+      "to": 34
+    },
+    "id": 19,
+    "trackCode": "ELWYE",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "CGC",
+    "subDivision": "Fremont",
+    "mileageRange": {
+      "from": 23.84,
+      "to": 34
+    },
+    "id": 20,
+    "trackCode": "SG",
+    "structures": 5,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "data",
+    "milepost": "CGC",
+    "subDivision": "Fremont",
+    "mileageRange": {
+      "from": 23.84,
+      "to": 34
+    },
+    "id": 21,
+    "trackCode": "WLWYE",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Fremont",
+    "milepost": "CGP",
+    "displayName": "Fremont - CGP"
+  },
+  {
+    "type": "data",
+    "milepost": "CGP",
+    "subDivision": "Fremont",
+    "mileageRange": {
+      "from": 0,
+      "to": 0.01
+    },
+    "id": 22,
+    "trackCode": "SG",
+    "structures": 1,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  },
+  {
+    "type": "group",
+    "subDivision": "Fremont",
+    "milepost": "COW",
+    "displayName": "Fremont - COW"
+  },
+  {
+    "type": "data",
+    "milepost": "COW",
+    "subDivision": "Fremont",
+    "mileageRange": {
+      "from": 0.18,
+      "to": 1.26
+    },
+    "id": 23,
+    "trackCode": "SG",
+    "structures": 7,
+    "clearanceCategory": "Clear",
+    "prohibited": 0
+  }
+]

@@ -1,0 +1,16 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "dist/",
+    "resolveJsonModule": true,
+    "baseUrl": "./src",
+    "lib": ["es2021", "dom"],
+    "types": ["node"],
+    "ignoreDeprecations": "5.0"
+  }
+}
