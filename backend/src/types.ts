@@ -1,3 +1,16 @@
+export type AssessmentElr = {
+
+  id: number;
+  assessmentElrId: number;
+  ngdVersion: number;
+  elr: string;
+  trackCode: string;
+  startMetres: number;
+  endMetres: number;
+  jobId: number;
+};
+
+
 
 export type ResultsRow = {
   type: "group" | "data";
