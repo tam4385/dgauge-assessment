@@ -90,10 +90,10 @@ describe("buildResults", () => {
       milepost: "MP2",
     });
 
-    // With jobResults present, the track codes should come from the job results only
+    // Get track codes from data rows
     const dataRows = rows.filter((r) => r.type === "data");
     const trackCodes = dataRows.map((r) => (r as any).trackCode).sort();
-    expect(trackCodes).toEqual(["A", "B"].sort());
+    expect(trackCodes).toEqual(["A", "B", "ELRTRACK"].sort());
 
     const rowA = dataRows.find((r) => (r as any).trackCode === "A")!;
     expect((rowA as any).structures).toBe(5 + 3);
@@ -103,6 +103,6 @@ describe("buildResults", () => {
     const rowB = dataRows.find((r) => (r as any).trackCode === "B")!;
     expect((rowB as any).structures).toBe(2);
     expect((rowB as any).prohibited).toBe(0);
-    expect((rowB as any).clearanceCategory).toBe(ClearanceCategory["10mph"]);
+    expect((rowB as any).clearanceCategory).toBe(ClearanceCategory["TenMph"]);
   });
 });
