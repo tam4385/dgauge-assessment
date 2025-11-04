@@ -5,6 +5,21 @@ import type { ClearanceCategory } from "../../utils/category";
 import { getMetersToMiles } from "../../utils/units";
 import { getTrackCodes } from "../../utils/generic";
 
+export function getCodesFromElrs(elrs: AssessmentElr[]): string[] {
+  let error = false;
+  const codes = elrs.map(({ elr }) => {
+    if (!elr.includes("-")) {
+      error = true;
+      return elr;
+    }
+    return elr.split("-")[0];
+  });
+  if (error) {
+    throw new Error("Invalid ELR format");
+  }
+  return codes;
+}
+
 export function buildResults({
   elrs,
   jobsByJobId,
