@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:watch": "jest --watch",
+    "test": "jest",
     "dev": "ts-node-dev src/index.ts",
     "drop-db": "rm prisma/dev.db && rm -rf prisma/migrations",
     "build-db": "prisma migrate dev --name dgauge",
@@ -21,8 +22,11 @@
   },
   "devDependencies": {
     "@types/express": "^5.0.3",
+    "@types/jest": "^30.0.0",
     "@types/node": "^24.6.2",
+    "jest": "^29.7.0",
     "prisma": "^6.16.3",
+    "ts-jest": "^29.4.5",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.3"

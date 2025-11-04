@@ -10,7 +10,7 @@
     "resolveJsonModule": true,
     "baseUrl": "./src",
     "lib": ["es2021", "dom"],
-    "types": ["node"],
+    "types": ["node", "jest"],
     "ignoreDeprecations": "5.0"
   }
 }

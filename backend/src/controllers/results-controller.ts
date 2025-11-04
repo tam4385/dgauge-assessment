@@ -1,36 +1,32 @@
 import { assessmentService } from "../services/assessment-service";
 import { assessmentJobService } from "../services/assessment-job-service";
 import { assetService } from "../services/assets-service";
-import type { ResultsRow, JobResult } from "../types";
+import type { ResultsRow } from "../types";
 import { buildResults } from "../lib/results/assessment-result-helpers";
+import { groupBy } from "../utils/generic";
+import { mapCodesAndNames } from "../utils/subDivisions";
 
 export const resultsController = {
   getAssessmentResults: async function (
-    projectId: number,
+    _: number,
     assessmentId: number
   ): Promise<ResultsRow[]> {
     try {
-      const [assessment, elrs] = await Promise.all([
-        assessmentService.getAssessment(assessmentId, projectId),
-        assessmentService.getAssessmentElrsByAssessmentId(assessmentId)
-      ]);
-      
+      const elrs = await assessmentService.getAssessmentElrsByAssessmentId(
+        assessmentId
+      );
+
       if (elrs.length === 0) return [];
 
-      const codes = elrs.map(({elr}) => elr.split("-")[0]);
+      const codes = elrs.map(({ elr }) => elr.split("-")[0]);
       const subDivisions = await assetService.getSubDivisionsByCodes(codes);
-      const codesToNames = new Map<string, string>();
-      subDivisions.forEach((sd) => codesToNames.set(sd.code, sd.name));
-      const jobIds = elrs.map(({jobId}) => jobId);
-      const jobResults = await assessmentJobService.getAssessmentJobsByJobIds(jobIds);
-      
-      const jobsByJobId = new Map<number, JobResult[]>();
+      const jobIds = elrs.map(({ jobId }) => jobId);
+      const jobResults = await assessmentJobService.getAssessmentJobsByJobIds(
+        jobIds
+      );
 
-      for (const jr of jobResults) {
-        const list = jobsByJobId.get(jr.jobId) ?? [];
-        list.push(jr);
-        jobsByJobId.set(jr.jobId, list);
-      }
+      const jobsByJobId = groupBy(jobResults, (jobResult) => jobResult.jobId);
+      const codesToNames = mapCodesAndNames(subDivisions);
 
       return buildResults({ elrs, jobsByJobId, codesToNames });
     } catch (error) {

@@ -1,5 +1,4 @@
 export type AssessmentElr = {
-
   id: number;
   assessmentElrId: number;
   ngdVersion: number;
@@ -9,8 +8,6 @@ export type AssessmentElr = {
   endMetres: number;
   jobId: number;
 };
-
-
 
 export type ResultsRow = {
   type: "group" | "data";
